@@ -1,11 +1,12 @@
-title: Ignacio Sarmiento Barbieri
-email: srmntbr2 (at) illinois.edu
-description: Ignacio Sarmiento Barbieri
+title: Andrea Bertieri Ruiz
+email: abertierir (at) unal.edu.co
+description: Andrea Bertieri Ruiz
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ignaciomsarmiento.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://abertierir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-cayman
 
 
 gems:
