@@ -1,0 +1,17 @@
+title: Ignacio Sarmiento Barbieri
+email: srmntbr2 (at) illinois.edu
+description: Ignacio Sarmiento Barbieri
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ignaciomsarmiento.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+# Build settings
+markdown: kramdown
+
+
+gems:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - packrat
