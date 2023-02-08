@@ -3,6 +3,14 @@ layout: default
 ---
 
 
+I’m founder of MORE. I previously was a Test Automation Engineer at EPAM.
+
+My primary interesrs are in Public, Urban, and Real State Economics, I’m also interested in Materials, Bioengineering, Nanotechnology, Big Data and Machine Learning.
+
+You can find my [CV here](https://www.notion.so/CV-1b3748e53ac140baa4ef55712aaaf0f6).
+
+If you want to talk to me you can make an appoinment here. **// Use calendy**
+
 I'm an Assistant Profesor at the [Economics Department at Universidad de los Andes](https://economia.uniandes.edu.co/). I previously was a Postdoctoral Research Associate in Data Science in Applied Microeconomics at the [National Center for Supercomputing Applications](http://www.ncsa.illinois.edu/).
 
 My primary interests are in Public, Urban, and Real Estate Economics. I'm also interested in Applied Econometrics, Big Data, and Machine Learning.
