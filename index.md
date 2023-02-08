@@ -1,7 +1,3 @@
----
-layout: default
----
-
 
 I’m founder of MORE. I previously was a Test Automation Engineer at EPAM.
 
