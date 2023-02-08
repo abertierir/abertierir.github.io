@@ -5,14 +5,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abertierir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-markdown: kramdown
+#markdown: kramdown
 theme: jekyll-theme-cayman
 
 
-gems:
-  - jekyll-feed
+#gems:
+ # - jekyll-feed
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - packrat
+#exclude:
+ # - Gemfile
+ # - Gemfile.lock
+ # - packrat
