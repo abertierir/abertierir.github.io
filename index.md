@@ -1,5 +1,5 @@
 
-[Home](index.md) | [CV](index.md) | [Blog](index.md) | [Software](index.md) | [Nugae](index.md)
+[Home](index.md) | [CV](documents/Andrea%20Bertieri%208D.pdf) | [Blog](index.md) | [Software](index.md) | [Nugae](index.md)
 
 
 # About me
