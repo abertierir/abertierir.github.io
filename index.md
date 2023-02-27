@@ -1,7 +1,14 @@
+
+[Home](index.md) | [CV](index.md) | [Blog](index.md) | [Software](index.md) | [Nugae](index.md)
+
+
+# About me
 <p>
 I’m founder of MORE. I previously was a Test Automation Engineer at EPAM.
 
-My primary interesrs are in Public, Urban, and Real State Economics, I’m also interested in Materials, Bioengineering, Nanotechnology, Big Data and Machine Learning.
+<br>
+
+My primary interests are in Public, Urban, and Real State Economics, I’m also interested in Materials, Bioengineering, Nanotechnology, Big Data and Machine Learning.
 
 You can find my [CV here](https://www.notion.so/CV-1b3748e53ac140baa4ef55712aaaf0f6).
 
