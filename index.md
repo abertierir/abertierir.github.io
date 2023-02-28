@@ -1,7 +1,4 @@
 
-[Home](index.md) | [CV](documents/Andrea%20Bertieri%208D.pdf) | [Blog](index.md) | [Software](index.md) | [Nugae](index.md)
-
-
 # About me
 
 I’m founder of MORE. I previously was a Test Automation Engineer at EPAM.
