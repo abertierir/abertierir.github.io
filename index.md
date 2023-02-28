@@ -14,11 +14,6 @@ You can find my [CV here](documents/Andrea%20Bertieri%208D.pdf).
 
 <br>
 
-If you want to talk to me you can make an appoinment here. **// Use calendy**
-
-<br>
-
-
 If you want to talk to me you can make an appointment [here with Calendly](https://calendly.com/abertierir/30min).
 
 <br>
