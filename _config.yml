@@ -3,6 +3,7 @@ email: abertierir (at) unal.edu.co
 description: Data Analyst - Data Quality Engineer - Mechatronic Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://abertierir.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#google_analytics: G-6TZW3PRHPG
 
 # Build settings
 #markdown: kramdown
