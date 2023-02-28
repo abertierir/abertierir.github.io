@@ -19,7 +19,7 @@ If you want to talk to me you can make an appoinment here. **// Use calendy**
 <br>
 
 
-If you want to talk to me you can make an appointment [here](https://calendly.com/abertierir/30min).
+If you want to talk to me you can make an appointment [here with Calendly](https://calendly.com/abertierir/30min).
 
 <br>
 <br>
