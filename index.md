@@ -7,7 +7,7 @@ My primary interests are in Public, Urban, and Medical, I’m also interested in
 
 <br>
 
-You can find my [CV here](documents/Andrea%20Bertieri%20Switzerland.pdf).
+You can find my [CV here](documents/Andrea%20Bertieri_Switzerland.pdf).
 
 <br>
 
