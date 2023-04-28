@@ -1,13 +1,13 @@
 
 # About me
 
-I’m founder of MORE. I previously was a Test Automation Engineer at EPAM.
+I’m currently working on building up my GitHub profile with data analyst projects. I previously was a Test Automation Engineer at EPAM.
 
-My primary interests are in Public, Urban, and Real State Economics, I’m also interested in Materials, Bioengineering, Nanotechnology, Big Data and Machine Learning.
+My primary interests are in Public, Urban, and Medical, I’m also interested in Big Data and Machine Learning.
 
 <br>
 
-You can find my [CV here](documents/Andrea%20Bertieri%208D.pdf).
+You can find my [CV here](documents/Andrea%20Bertieri%20Switzerland.pdf).
 
 <br>
 
